@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Login Exercise</string>
+    <string name="facebook_app_id" translatable="false">633212337456654</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb633212337456654</string>
 </resources>
